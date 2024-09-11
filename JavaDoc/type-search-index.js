@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"deal_Or_No_Deal","l":"Deal_or_No_Deal_GAME"},{"p":"deal_Or_No_Deal","l":"LoadingScreen_und_Animation"},{"p":"deal_Or_No_Deal","l":"Methode"}];updateSearchResults();
